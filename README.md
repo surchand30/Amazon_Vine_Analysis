@@ -28,4 +28,6 @@ The purpose of this analysis is to analyze the amazon reviews written by members
 
 Screenshots of analysis :
 
-![Number of records](https://github.com/surchand30/Amazon_Vine_Analysis/blob/main/images/5%20Star%20reviews%20analysis.PNG)
+![Number of records](https://github.com/surchand30/Amazon_Vine_Analysis/blob/main/images/Number%20of%20records.PNG)
+
+![5 star rating analysis](https://github.com/surchand30/Amazon_Vine_Analysis/blob/main/images/5%20Star%20reviews%20analysis.PNG)
